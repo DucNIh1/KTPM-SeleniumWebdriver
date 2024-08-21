@@ -1,0 +1,19 @@
+{
+  "name": "ktpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "chromedriver": "^127.0.3",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.23.0"
+  },
+  "type": "module"
+}
